@@ -26,6 +26,7 @@ It is designed for tables with complex layouts, multi-line cells, and Persian te
 ---
 
 ## 📂 Project Structure
+```
 project/
 │
 ├── ensani_image/ # Input images (tables)
@@ -42,7 +43,7 @@ project/
 ├── digitize_tables.py # Main script
 └── README.md
 
-
+```
 ---
 
 ## ⚙️ Requirements
